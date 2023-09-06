@@ -15,3 +15,7 @@ latest : https://www.icloud.com/shortcuts/0de43b9b71a74de8b39825e8fcb04d7f
 - v1.2 표로 출력 방식 변경
 
   https://www.icloud.com/shortcuts/0de43b9b71a74de8b39825e8fcb04d7f
+
+- v1.3 롤백 및 각종 버그 해결
+
+  https://www.icloud.com/shortcuts/11d64b4802964e41afbfa431aec0d0eb
